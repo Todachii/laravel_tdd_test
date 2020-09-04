@@ -1,6 +1,6 @@
 # laravel_tdd_test
 https://www.amazon.co.jp/dp/B07SPT6XJV
-をやってみた
+のTDDの部分をやってみた
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
